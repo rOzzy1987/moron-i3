@@ -22,7 +22,7 @@ by that I started redesigning the whole thing from scratch. Then scope creep kic
 in, so now it's a klipperized bedslinger with ABL and a CANbus toolhead...
 
 Why "Moron"? I also took a lot of inspiration from Voron Design's fine work, but
-obviously can't call this a Voron. My name is Mihály. Mihály's Voron. Moron.
+obviously can't call this a Voron. My name is MihÃ¡ly. MihÃ¡ly's Voron. Moron.
 (And I happen to be a moron sometime...)
 
 ## Buid
@@ -31,12 +31,20 @@ list, check out the [BOM](Doc/BOM.md).
 
 If you're done sourcing parts, you can start assembly using the [Guide](Doc/Guide.md)
 
+> **Warning**
+Please note that wiring is not covered in the guide, it is at the builder's discretion, 
+and their responsibility to do it in a safe manner, according to local codes.
+
+### Toolheads
+This printer is designed to use the Dragon Burner toolhead with an RHGX extruder. 
+You can of course easily fit any toolhead with a Voron Stealthburner mini mount.
+
 ## Footnote
 This printer design is free to download and tinker with, and always will be.
 
 However, if you feel it gave you some value, please support the project by donating
 2-5$ on one of these channels
 
-| [Ko-Fi <br> <img src="Doc/ko-fi.svg" width="30" />](https://ko-fi.com/Q5Q414JWQD) | [Revolut <br> <img src="Doc/revolut.svg" width="30" />](https://revolut.me/mihlywer) | [Paypal <br> <img src="Doc/paypal.svg" width="30" />](https://paypal.me/rozzy87) |
+| [Ko-Fi <br> <img src="Doc/ko-fi.svg" width="30" />](https://ko-fi.com/Q5Q414JWQD) | [Revolut <br> <img src="Doc/revolut.svg" width="30" />](https://revolut.me/mihlywer) | [Paypal <br> <img src="Doc/paypal.svg" width="30" style="background-color: #142c8e" />](https://paypal.me/rozzy87) |
 |---|---|---|
 

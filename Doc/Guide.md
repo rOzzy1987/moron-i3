@@ -21,7 +21,7 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 | 4        | SHCS M4x8mm              |
 
 ### Assembling
-![img](Frame.png)
+![img](frame.png)
 
 ## Bed rail holders
 ### Parts
@@ -36,7 +36,7 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 | 8        | T-Nut-M4                 |
 
 ### Assembling
-![img](Y-holder.png)
+![img](Y_holder.png)
 
 ## Y Belt system
 ### Parts
@@ -56,7 +56,7 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 | 1        | 2GT 20 Teeth Wheel       |
 
 ### Assembling
-![img](Y-belt.png)
+![img](Y_belt.png)
 
 ## Bed
 ### Parts
@@ -80,4 +80,7 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 ### Assembling
 Fix the LM8UU bearings in place by wrapping a zip tie around them through the adjacent holes.
 ![img](Bed_core.png)
+
+
+
 

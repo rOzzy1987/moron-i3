@@ -1,5 +1,7 @@
-# Moron-i3
+# Moron i3
 A capable i3 style bedslinger, packed with features, but kept at a reasonable cost
+
+![View](Doc/Moron-i3.png)
 
 ## Introduction
 Back in 2013 I saved up some money and bought my first 3D printer. It was a CTC-i3,

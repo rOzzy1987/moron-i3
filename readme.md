@@ -45,9 +45,11 @@ One benefit of going with Dragon Burner and RHGX is that it doesn't have any ove
 ## Footnote
 This printer design is free to download and tinker with, and always will be.
 
-However, if you feel it gave you some value, please support the project by donating
-2-5$ on one of these channels
+However, if you feel it gave you some value, please consider supporting the project by donating
+2-5$ on one of these channels.
 
 | [Ko-Fi <br> <img src="Doc/ko-fi.svg" width="30" />](https://ko-fi.com/Q5Q414JWQD) | [Revolut <br> <img src="Doc/revolut.svg" width="30" />](https://revolut.me/mihlywer) | [Paypal <br> <img src="Doc/paypal.svg" width="30" style="background-color: #142c8e" />](https://paypal.me/rozzy87) |
 |---|---|---|
+
+Thank you, and have a great build!
 

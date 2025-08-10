@@ -36,8 +36,11 @@ Please note that wiring is not covered in the guide, it is at the builder's disc
 and their responsibility to do it in a safe manner, according to local codes.
 
 ### Toolheads
-This printer is designed to use the Dragon Burner toolhead with an RHGX extruder. 
+This printer is designed to use the [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) toolhead with an [RHGX extruder](https://github.com/rOzzy1987/RHGX-extruder). 
 You can of course easily fit any toolhead with a Voron Stealthburner mini mount.
+You can also use Dragin Burner with any suitable extruder as well.
+
+One benefit of going with Dragon Burner and RHGX is that it doesn't have any overhangs in the back, that way you can use all of the Z screw length. Other extruders, especially with an EBB36 mounted at the back, may limit Z travel significantly.
 
 ## Footnote
 This printer design is free to download and tinker with, and always will be.

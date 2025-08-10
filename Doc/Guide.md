@@ -80,7 +80,3 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 ### Assembling
 Fix the LM8UU bearings in place by wrapping a zip tie around them through the adjacent holes.
 ![img](Bed_core.png)
-
-
-
-

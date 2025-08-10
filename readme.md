@@ -25,3 +25,18 @@ Why "Moron"? I also took a lot of inspiration from Voron Design's fine work, but
 obviously can't call this a Voron. My name is Mihály. Mihály's Voron. Moron.
 (And I happen to be a moron sometime...)
 
+## Buid
+This printer is made of self sourced, and prepared parts. For a (mostly) complete
+list, check out the [BOM](Doc/BOM.md).
+
+If you're done sourcing parts, you can start assembly using the [Guide](Doc/Guide.md)
+
+## Footnote
+This printer design is free to download and tinker with, and always will be.
+
+However, if you feel it gave you some value, please support the project by donating
+2-5$ on one of these channels
+
+| [Ko-Fi <br> <img src="Doc/ko-fi.svg" width="30" />](https://ko-fi.com/Q5Q414JWQD) | [Revolut <br> <img src="Doc/revolut.svg" width="30" />](https://revolut.me/mihlywer) | [Paypal <br> <img src="Doc/paypal.svg" width="30" />](https://paypal.me/rozzy87) |
+|---|---|---|
+

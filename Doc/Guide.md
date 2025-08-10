@@ -79,4 +79,47 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 
 ### Assembling
 Fix the LM8UU bearings in place by wrapping a zip tie around them through the adjacent holes.
+
+If you don't have the means to print the bed carrier, you can just get a piece of plywood you'll fix the bearings to. I used a laser cut plywood base for my build and it works just fine.
+
 ![img](Bed_core.png)
+
+## Z axis
+### Parts
+| Quantity | Name                    |
+|---------:|-------------------------|
+
+### Assembling
+![img](Z_axis.png)
+
+## X Gantry
+### Parts
+### Assembling
+![](Gantry.png)
+
+## Power
+### Parts
+### Assembling
+![](Power.png)
+
+## Control box
+### Parts
+### Assembling
+![](Control.png)
+
+## Spool holder
+### Parts
+### Assembling
+![](Spool.png)
+
+## Final assembly
+Just put together the previously assembled parts!
+
+![](Final.png)
+
+# Done
+You should now have a complete printer! (Without a toolhead)
+
+Well done!
+
+![](Complete.png)

@@ -48,6 +48,7 @@
 | 2        | 2GT 20 Teeth Idler                     | Sourced   | With 3mm ID bearings                                                      |
 | 2        | 2GT 20 Teeth Wheel                     | Sourced   |                                                                           |
 | 2        | 2x4mm PTFE Tube - 75mm                 | Sourced   |                                                                           |
+| 1        | 7x7mm closed drag chain                | Sourced   |                                                                           |
 | 2        | 8mm Linear Axis - 325mm                | Sourced   |                                                                           |
 | 2        | 8mm Linear Axis - 350mm                | Sourced   | Length here is not critical, but at least 340mm                           |
 | 2        | 8mm Linear Axis - 410mm                | Sourced   | Length also not critical, between 410mm and 450mm is fine                 |

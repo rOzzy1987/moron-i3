@@ -8,7 +8,6 @@ Note that both holes of both ends need to be tapped M6 on `2040-300` and `2040-4
 The frame building is up to you, but generally [blind joints](Blind.png) are preferred.
 
 ### Parts
-
 | Quantity | Name                     |
 |---------:|--------------------------|
 | 1        | 2040-300                 |
@@ -38,11 +37,11 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 ### Assembling
 > **Note**
 You will need 4 of these parts.
+
 ![img](Y_holder.png)
 
 ## Y Belt system
 ### Parts
-
 | Quantity | Name                     |
 |---------:|--------------------------|
 | 1        | Y Motor Holder           |
@@ -62,7 +61,6 @@ You will need 4 of these parts.
 
 ## Bed
 ### Parts
-
 | Quantity | Name                     |
 |---------:|--------------------------|
 | 1        | Y Bed Carriage           |
@@ -133,6 +131,9 @@ If you don't have the means to print the bed carrier, you can just get a piece o
 | 1        | Nema17 Stepper           |
 
 ### Assembling
+If you have problems with the gantry not going low enough for your bed setup, you can print the Gantry end parts mirrored and 
+use the in an upside-down configuration. Or just use these and move the X motor to the right side.
+
 ![img](Gantry.png)
 
 ## Power
@@ -185,7 +186,17 @@ or have heat set inserts after drilling, whatever you prefer.
 ![img](Spool.png)
 
 ## Final assembly
-Just put together the previously assembled parts!
+### Parts
+| Quantity | Name                     |
+|---------:|--------------------------|
+| 1        | X Drag Chain Fixed       |
+| 1        | SHCS-M4x8                |
+| 1        | T-Nut-M4                 |
+| 1        | 7x7mm closed drag chain  |
+
+\+ All parts previously assembled
+### Assembling
+For fixing the drag chain, the same applies as for the control boards. Use whatever you have/feel like.
 
 ![img](Final.png)
 
@@ -195,9 +206,3 @@ You should now have a complete printer! (Without a toolhead)
 Well done!
 
 ![img](Complete.png)
-
-
-
-
-
-

@@ -8,12 +8,13 @@
 | 12       | BHCS-M6x15                             | Fastener  |                                                                           |
 | 4        | BHCS-M6x30                             | Fastener  |                                                                           |
 | 11       | M3x4x5 Heat Set Insert                 | Fastener  | "Voron style" inserts                                                     |
-| 28       | Nut-M3                                 | Fastener  |                                                                           |
+| 30       | Nut-M3                                 | Fastener  |                                                                           |
+| 2        | Washer-M3                              | Fastener  |                                                                           |
 | 2        | SHCS-M3x10                             | Fastener  | Socket head cap screw (DIN912)                                            |
 | 4        | SHCS-M3x10                             | Fastener  |                                                                           |
 | 6        | SHCS-M3x12                             | Fastener  |                                                                           |
-| 3        | SHCS-M3x16                             | Fastener  |                                                                           |
-| 6        | SHCS-M3x20                             | Fastener  |                                                                           |
+| 1        | SHCS-M3x16                             | Fastener  |                                                                           |
+| 8        | SHCS-M3x20                             | Fastener  |                                                                           |
 | 5        | SHCS-M3x25                             | Fastener  |                                                                           |
 | 4        | SHCS-M3x30                             | Fastener  |                                                                           |
 | 22       | SHCS-M3x8                              | Fastener  |                                                                           |

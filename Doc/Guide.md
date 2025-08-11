@@ -19,13 +19,13 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 | 4        | BHCS M6x30mm             |
 | 4        | Rubber Foot - 20x12mm    |
 | 4        | SHCS M4x8mm              |
+| 4        | T-Nut-M4                 |
 
 ### Assembling
 ![img](frame.png)
 
 ## Bed rail holders
 ### Parts
-
 | Quantity | Name                     |
 |---------:|--------------------------|
 | 2        | 8mm Linear Axis - 410mm  |
@@ -36,6 +36,8 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 | 8        | T-Nut-M4                 |
 
 ### Assembling
+> **Note**
+You will need 4 of these parts.
 ![img](Y_holder.png)
 
 ## Y Belt system
@@ -67,6 +69,7 @@ The frame building is up to you, but generally [blind joints](Blind.png) are pre
 | 1        | Y Belt Clip              |
 | 1        | Y Belt Clip Cap          |
 | 1        | Nozzle Brush Holder      |
+| 1        | Bambulab nozzle brush    |
 | 4        | LM8UU Linear Bearing     |
 | 1        | 220x200 MK3 Heated Bed   |
 | 4        | SHCS-M3x30               |
@@ -86,40 +89,115 @@ If you don't have the means to print the bed carrier, you can just get a piece o
 
 ## Z axis
 ### Parts
-| Quantity | Name                    |
-|---------:|-------------------------|
+| Quantity | Name                     |
+|---------:|--------------------------|
+| 8        | SHCS-M3x8                |
+| 2        | SHCS-M3x10               |
+| 2        | Nut-M3                   |
+| 10       | SHCS-M4x8                |
+| 10       | T-Nut-M4                 |
+| 1        | Z Motor Mount L          |
+| 1        | Z Motor Mount R          |
+| 1        | Z Rod Holder L           | 
+| 1        | Z Rod Holder R           | 
+| 2        | 8mm Linear Axis - 325mm  |
+| 2        | T8 Leadscrew - 300mm     |
+| 2        | 8mm To 5mm Shaft Coupler |
+| 2        | Nema17 Stepper           |
 
 ### Assembling
 ![img](Z_axis.png)
 
 ## X Gantry
 ### Parts
+| Quantity | Name                     |
+|---------:|--------------------------|
+| 1        | X Belt Tensioner         |
+| 1        | X Carriage               |
+| 1        | X Drag Chain Mount       |
+| 1        | X Gantry L               |
+| 1        | X Gantry R               |
+| 1        | Dragonburner Mount       |
+| 2        | T8 Leadscrew Nut         |
+| 1        | 2GT 20 Teeth Idler       |
+| 1        | 2GT 20 Teeth Wheel       |
+| 8        | LM8UU Linear Bearing     |
+| 5        | M3x4x5 Heat Set Insert   |
+| 4        | SHCS-M3x10               |
+| 1        | SHCS-M3x16               |
+| 8        | SHCS-M3x20               |
+| 2        | SHCS-M3x25               |
+| 11       | Nut-M3                   |
+| 2        | Washer-M3                |
+| 2        | 8mm Linear Axis - 350mm  |
+| 1        | Nema17 Stepper           |
+
 ### Assembling
-![](Gantry.png)
+![img](Gantry.png)
 
 ## Power
 ### Parts
+| Quantity | Name                     |
+|---------:|--------------------------|
+| 1        | AC Box                   |
+| 1        | PSU Mount                |
+| 1        | LRS-350-24 PSU           |
+| 3        | BHCS-M4x6                |
+| 7        | SHCS-M4x8                |
+| 7        | T-Nut-M4                 |
+| 1        | IEC C14 connector        | 
+
 ### Assembling
-![](Power.png)
+> **WARNING** 
+Be sure to have the wiring attached and the box fixed to the desired position on the frame before clicking in the IEC socket! 
+Once clicked in, the screws and wiring is inaccessible and there's no easy way of unclipping the socket!
+
+![img](Power.png)
 
 ## Control box
 ### Parts
+| Quantity | Name                     |
+|---------:|--------------------------|
+| 1        | Control box              |
+| 1        | Control box lid          |
+| 6        | M3x4x5 Heat Set Insert   |
+| 6        | SHCS-M3x8                |
+| 3        | SHCS-M4x8                |
+| 3        | T-Nut-M4                 |
+| 1        | Raspberry Pi             |
+| 1        | Mellow FLY D5            |
+
 ### Assembling
-![](Control.png)
+Use whatever means you have to secure the boards without shorting anything. You can use screws screwed into the plastic, 
+or have heat set inserts after drilling, whatever you prefer.
+
+![img](Control.png)
 
 ## Spool holder
 ### Parts
+| Quantity | Name                     |
+|---------:|--------------------------|
+| 1        | Spool Holder             |
+| 2        | 2x4mm PTFE Tube - 75mm   |
+| 4        | SHCS-M4x8                |
+| 4        | T-Nut-M4                 |
 ### Assembling
-![](Spool.png)
+![img](Spool.png)
 
 ## Final assembly
 Just put together the previously assembled parts!
 
-![](Final.png)
+![img](Final.png)
 
 # Done
 You should now have a complete printer! (Without a toolhead)
 
 Well done!
 
-![](Complete.png)
+![img](Complete.png)
+
+
+
+
+
+

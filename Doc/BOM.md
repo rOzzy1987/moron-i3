@@ -47,6 +47,7 @@
 | 1        | 220x200 MK3 Heated Bed                 | Sourced   |                                                                           |
 | 2        | 2GT 20 Teeth Idler                     | Sourced   | With 3mm ID bearings                                                      |
 | 2        | 2GT 20 Teeth Wheel                     | Sourced   |                                                                           |
+| 2        | 2GT belt ~1m                           | Sourced   | Will need to trim to length as you go                                     |
 | 2        | 2x4mm PTFE Tube - 75mm                 | Sourced   |                                                                           |
 | 1        | 7x7mm closed drag chain                | Sourced   |                                                                           |
 | 2        | 8mm Linear Axis - 325mm                | Sourced   |                                                                           |

@@ -131,8 +131,8 @@ If you don't have the means to print the bed carrier, you can just get a piece o
 | 1        | Nema17 Stepper           |
 
 ### Assembling
-If you have problems with the gantry not going low enough for your bed setup, you can print the Gantry end parts mirrored and 
-use the in an upside-down configuration. Or just use these and move the X motor to the right side.
+If you have problems with the gantry not going low enough for your bed setup, you can print the gantry end parts mirrored and 
+use them in an upside-down configuration. Or just use these and move the X motor to the right side.
 
 ![img](Gantry.png)
 
